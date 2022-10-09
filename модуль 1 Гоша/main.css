@@ -1,0 +1,36 @@
+		p{
+			font-size: 30px;
+			color: cyan;
+			background-color: black;
+			font-family: 'Comfortaa', cursive;
+font-family: 'Edu QLD Beginner', cursive;
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Flex', sans-serif;
+font-family: 'Rubik Glitch', cursive;
+font-family: 'Teko', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+
+		}
+		div{
+			background-color:black ;
+			width: 80%;
+			margin:auto;
+		}
+		a{
+			font-size: 30px;
+			color: cyan;
+			font-family: Impact;
+			text-decoration: none;
+		}
+		img{
+			max-width: 100%;
+			height: auto;
+		}
+		a:hover{
+			color: white;
+			text-decoration: underline;
+
+
+		}
