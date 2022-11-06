@@ -1,0 +1,25 @@
+.img-box{
+	column-count: 4;
+	column-gap: 5px;
+	width: 90%;
+	margin: auto;
+}
+.image{
+	max-width: 100%;
+	display: black;
+	filter: grayscale(1.5);
+}
+.image+.image{
+	margin: 5px 0;
+}
+.image:hover{
+	filter: grayscale(0);
+}
+.heading{
+	text-align: center;
+	font-size: 90px;
+	color: brown;
+}
+.main{
+	background-color: grey;
+}
